@@ -24,8 +24,8 @@ TERKEY TERMUX
 > pkg update && pkg upgrade
 > pkg install git
 > pkg install python
-> git clone https://github.com/MhankBarBar/TERKEY
-> cd TERKEY
+> git clone https://github.com/MNAFbot0/terkey
+> cd terkey
 > python terkey.py
 ```
 
